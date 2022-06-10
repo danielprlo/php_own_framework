@@ -9,7 +9,7 @@ class testController
     public function test(Request $request)
     {
         return new Response(
-            '<html><body>WORKS</body></html>'
+            '<html><body>THE TEST CONTROLLER WORKS</body></html>'
         );
     }
 }
