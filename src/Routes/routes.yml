@@ -1,0 +1,3 @@
+test:
+  path: /test
+  controller: DanielPerez\SymfonyRouting\Controllers\TestController::test

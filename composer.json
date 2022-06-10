@@ -1,0 +1,22 @@
+{
+    "name": "daniel.perez/symfony-routing",
+    "description": "Testing the symfony routing component",
+    "autoload": {
+        "psr-4": {
+            "DanielPerez\\SymfonyRouting\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dani",
+            "email": "dani.93.perez@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/routing": "^6.1",
+        "symfony/http-foundation": "^6.1",
+        "symfony/yaml": "^6.1",
+        "symfony/config": "^6.1",
+        "symfony/http-kernel": "^6.1"
+    }
+}
